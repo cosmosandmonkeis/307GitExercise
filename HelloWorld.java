@@ -4,7 +4,7 @@ public class HelloWorld {
     {
         System.out.println("David Nguyen");
 
-    
+
         System.out.println("This is my third year at calpoly. ");
-    
+    }
 }
